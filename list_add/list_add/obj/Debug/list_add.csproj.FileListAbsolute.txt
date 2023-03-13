@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\home\C#\list_add\list_add\obj\Debug\list_add.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\home\C#\list_add\list_add\obj\Debug\list_add.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\home\C#\list_add\list_add\obj\Debug\list_add.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\home\C#\list_add\list_add\bin\Debug\list_add.exe.config
+C:\Users\HP\Desktop\home\C#\list_add\list_add\bin\Debug\list_add.exe
+C:\Users\HP\Desktop\home\C#\list_add\list_add\bin\Debug\list_add.pdb
+C:\Users\HP\Desktop\home\C#\list_add\list_add\obj\Debug\list_add.exe
+C:\Users\HP\Desktop\home\C#\list_add\list_add\obj\Debug\list_add.pdb
